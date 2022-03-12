@@ -13,7 +13,7 @@ import speech_recognition as sr
 import wikipedia
 import os
 import smtplib
-import webbrowser
+import webbrowser;
 
 class voiceassist(QWidget):
     def __init__(self):
